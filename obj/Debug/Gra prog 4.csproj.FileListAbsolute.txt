@@ -1,0 +1,10 @@
+C:\Users\Piotrek\source\repos\Gra prog 4\Gra prog 4\bin\Debug\Gra prog 4.exe.config
+C:\Users\Piotrek\source\repos\Gra prog 4\Gra prog 4\bin\Debug\Gra prog 4.exe
+C:\Users\Piotrek\source\repos\Gra prog 4\Gra prog 4\bin\Debug\Gra prog 4.pdb
+C:\Users\Piotrek\source\repos\Gra prog 4\Gra prog 4\obj\Debug\Gra prog 4.csprojAssemblyReference.cache
+C:\Users\Piotrek\source\repos\Gra prog 4\Gra prog 4\obj\Debug\Gra_prog_4.Form1.resources
+C:\Users\Piotrek\source\repos\Gra prog 4\Gra prog 4\obj\Debug\Gra_prog_4.Properties.Resources.resources
+C:\Users\Piotrek\source\repos\Gra prog 4\Gra prog 4\obj\Debug\Gra prog 4.csproj.GenerateResource.cache
+C:\Users\Piotrek\source\repos\Gra prog 4\Gra prog 4\obj\Debug\Gra prog 4.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\source\repos\Gra prog 4\Gra prog 4\obj\Debug\Gra prog 4.exe
+C:\Users\Piotrek\source\repos\Gra prog 4\Gra prog 4\obj\Debug\Gra prog 4.pdb
